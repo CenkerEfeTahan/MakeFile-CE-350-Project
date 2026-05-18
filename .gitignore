@@ -1,0 +1,13 @@
+# Ignore generated Markdown reports
+quality.md
+quality.sum.md
+perf.md
+perf.sum.md
+security.md
+security.sum.md
+concatenated.md
+refined.md
+action.plan.md
+
+# Ignore environment files (if used later)
+.env
